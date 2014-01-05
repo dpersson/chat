@@ -1,4 +1,4 @@
 chat
 ====
 
-Chat app
+Chat app using libev. 
